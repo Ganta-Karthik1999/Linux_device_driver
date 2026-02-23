@@ -1,1 +1,0 @@
-savedcmd_/home/pi/Linux_device/Linux_device_driver/gpio/gpio.mod := printf '%s\n'   gpio.o | awk '!x[$$0]++ { print("/home/pi/Linux_device/Linux_device_driver/gpio/"$$0) }' > /home/pi/Linux_device/Linux_device_driver/gpio/gpio.mod

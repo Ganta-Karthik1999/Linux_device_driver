@@ -1,1 +1,0 @@
-savedcmd_/home/pi/Linux_device/Linux_device_driver/gpio/modules.order := {   echo /home/pi/Linux_device/Linux_device_driver/gpio/gpio.o; :; } > /home/pi/Linux_device/Linux_device_driver/gpio/modules.order

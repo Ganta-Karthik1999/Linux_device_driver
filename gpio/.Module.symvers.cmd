@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Linux_device/Linux_device_driver/gpio/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/pi/Linux_device/Linux_device_driver/gpio/Module.symvers -T /home/pi/Linux_device/Linux_device_driver/gpio/modules.order -i Module.symvers -e 

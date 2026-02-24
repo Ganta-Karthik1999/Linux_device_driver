@@ -1,7 +1,4 @@
-#include <linux/module.h>
-// #include <linux/kernel.h>
-#include <linux/init.h>
-#include <linux/gpio/consumer.h>
+
 
 #define IO_LED 21
 #define Button 20
